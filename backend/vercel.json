@@ -1,0 +1,4 @@
+{
+  "framework": "fastapi",
+  "buildCommand": "python -m compileall -q app"
+}
